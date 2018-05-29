@@ -1,0 +1,26 @@
+2018-05-30 00:59:19 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 00:59:19 INFO  XmlAccess:65 - Colors added and updated successfully
+2018-05-30 01:03:58 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 01:03:58 INFO  XmlAccess:69 - Colors added and updated successfully
+2018-05-30 01:03:58 INFO  XmlAccess:93 - Result write successfully
+2018-05-30 01:04:51 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 01:04:51 INFO  XmlAccess:67 - Colors added and updated successfully
+2018-05-30 01:04:51 INFO  XmlAccess:95 - Result write successfully
+2018-05-30 01:11:14 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 01:11:14 WARN  XmlAccess:70 - Result of path query is empty
+2018-05-30 01:11:14 INFO  XmlAccess:99 - Result write successfully
+2018-05-30 01:11:35 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 01:11:35 WARN  XmlAccess:70 - Result of XPath query is empty
+2018-05-30 01:11:35 INFO  XmlAccess:99 - Result write successfully
+2018-05-30 01:13:05 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 01:13:05 INFO  XmlAccess:68 - Colors added and updated successfully
+2018-05-30 01:13:05 INFO  XmlAccess:79 - writeResult method is started
+2018-05-30 01:13:05 INFO  XmlAccess:100 - Result write successfully
+2018-05-30 01:23:24 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 01:23:24 INFO  XmlAccess:72 - Colors added and updated successfully. Was changed2elements, and3elements added
+2018-05-30 01:23:24 INFO  XmlAccess:84 - writeResult method is started
+2018-05-30 01:23:24 INFO  XmlAccess:105 - Result write in file successfully
+2018-05-30 01:23:39 INFO  XmlAccess:41 - updateNode method is started
+2018-05-30 01:23:39 INFO  XmlAccess:72 - Colors added and updated successfully. Was changed 2 elements, and 3 elements added
+2018-05-30 01:23:39 INFO  XmlAccess:84 - writeResult method is started
+2018-05-30 01:23:39 INFO  XmlAccess:105 - Result write in file successfully
